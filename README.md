@@ -1,0 +1,1 @@
+# django small website practice
